@@ -1,6 +1,6 @@
 #Analisis_En_Python_intervenciones2023_STJ
 
-Este proyecto forma parte de una propuesta para el Analisis de datos. Utiliza un dataset del Ministerio de Justicia y Derechos Humanos de Argentina, accesible en datos.jus.gob.ar. El dataset "Intervenciones 2023" ofrece información detallada sobre intervenciones judiciales del año 2023, realizado dicho análisis con Python ejecutado desde un notebooks de Google Colaboratory.
+Este proyecto forma parte de una propuesta para el Analisis de datos. Utiliza un dataset del Ministerio de Justicia y Derechos Humanos de Argentina, accesible en datos.jus.gob.ar. El dataset "Intervenciones 2023" ofrece información detallada sobre intervenciones judiciales del año 2023. El análisis realizado, se empleó Python, un lenguaje de programación de alto nivel, interpretado y de propósito general, conocido por su versatilidad y facilidad de uso. El análisis se ejecutó utilizando Google Colaboratory (Colab), ya que es una plataforma basada en la nube que proporciona un entorno de desarrollo integrado para Python. Google Colaboratory es una herramienta potente que permite ejecutar código Python directamente en la nube sin necesidad de configurar un entorno local
 
 *Carga del Dataset: Importación con pandas.
 *Inspección de Datos: Exploración inicial y estadísticas descriptivas.
